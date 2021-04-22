@@ -24,9 +24,9 @@ import threading
 
 
 #setup keys for the project
-API_KEY = 'twKpMoUH58W5'
-PROJECT_TOKEN = 'tEokKmJTjNL3'
-RUN_TOKEN = 'tPO6FhOE159B'
+API_KEY = 
+PROJECT_TOKEN = 
+RUN_TOKEN = 
 
 
 class Data:
